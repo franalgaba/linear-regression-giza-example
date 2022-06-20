@@ -1,0 +1,25 @@
+[
+    {
+        "inputs": [],
+        "name": "predict",
+        "outputs": [
+            {
+                "name": "out_dims_len",
+                "type": "felt"
+            },
+            {
+                "name": "out_dims",
+                "type": "felt*"
+            },
+            {
+                "name": "out_elements_len",
+                "type": "felt"
+            },
+            {
+                "name": "out_elements",
+                "type": "felt*"
+            }
+        ],
+        "type": "function"
+    }
+]
